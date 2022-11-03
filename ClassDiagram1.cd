@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project1b.VaccinationData">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAEAEBAAAAAAAAAAAACCBAAAAIgAAAAA=</HashCode>
+      <FileName>Vaccnation Data.cs</FileName>
+      <NewMemberFileName>Vaccination.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project1b.Community" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAEAAAAAAAEBAAAAAQAAACAAACBgAAAgQAAAAA=</HashCode>
+      <FileName>Community.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project1b.Report">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAAAAAAAAAEAAAAgIAAAAAIAAAAgAAAAACBAAA=</HashCode>
+      <FileName>Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project1b.County">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAEAMBAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>County.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project1b.Address">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMAAQACAAAAAAAAAABAAgABAACABA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project1b.Location">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAgAAAEAAAAQAQAAAAAAAACAAAAQEAAAAA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
